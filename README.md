@@ -2,6 +2,5 @@ Olá Mundo! meu nome é Wesley, sou um Programador, sou de nível Junior, mas t�
 
 1
 ```
-git clone 
-https://github.com/Hacker-github-ctrl/Puzzle---perguntas-e-respostas-quebra-cabe-a.git
+git clone https://github.com/Hacker-github-ctrl/Puzzle---perguntas-e-respostas-quebra-cabe-a.git
 ```
