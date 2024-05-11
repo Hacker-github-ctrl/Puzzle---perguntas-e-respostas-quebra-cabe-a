@@ -8,3 +8,7 @@ git clone https://github.com/Hacker-github-ctrl/Puzzle---perguntas-e-respostas-q
 ```
 cd Puzzle
 ```
+3.
+```
+python3 quebra-cabeça.py
+´´´
