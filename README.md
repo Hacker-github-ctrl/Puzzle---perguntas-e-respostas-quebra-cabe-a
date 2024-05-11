@@ -6,7 +6,7 @@ git clone https://github.com/Hacker-github-ctrl/Puzzle---perguntas-e-respostas-q
 ```
 2.
 ```
-cd Puzzle
+cd Puzzle---perguntas-e-respostas-quebra-cabe-a
 ```
 3.
 ```
